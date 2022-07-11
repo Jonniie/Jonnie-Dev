@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a frontend web deveoper<br>Currently working with HTML, CSS and Javascript<br>
+I'm a Frontend Deveoper<br>Currently working with Javascript and ReactJs<br>
 
 
 ## 🌐 Socials:
