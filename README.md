@@ -1,9 +1,10 @@
 # 💫 About Me:
 
+<!--
 <p align="center">
   <img src="https://bit.ly/3CFYCgb" alt="John Areola"/>
 </p>
-<!--![John Areola](https://bit.ly/3CFYCgb)-->
+![John Areola](https://bit.ly/3CFYCgb)-->
 
 I'm a Frontend Deveoper, working with HTML, CSS, SASS, Javascript, ReactJs<br><br>
 I'm currently taking the Frontend Career path course created by [Scrimba](https://scrimba.com/learn/frontend) and I,m hoping to complete it as soon as I can. <br>
