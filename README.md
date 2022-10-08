@@ -16,12 +16,14 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
         <br/>
         <br />
 
+<img src="https://www.codewars.com/users/Jonniie/badges/large">
 <a href="https://twitter.com/JonnieDev">
 <img src="https://img.shields.io/twitter/follow/JonnieDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
 
 <a href="https://linkedin.com/in/john-areola">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin Follow Badge"/></a>
 
+<!-- <a href="https://app.daily.dev/JonnieDev"><img src="https://api.daily.dev/devcards/6a81d47942094fe1a7c1bacb52257eb1.png?r=jxd" width="400" alt="John Areola's Dev Card"/></a>-->
 
 
 ## My Github Stats && Technologies I use:
