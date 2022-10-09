@@ -1,18 +1,18 @@
-<h3>Hello👋🏾</h3>
+<h3>Hello 👋🏾</h3>
 
 <!-- I'm a Frontend Deveoper, working with HTML, CSS, SASS, Javascript, ReactJs<br><br>
 I'm currently taking the Frontend Career path course created by [Scrimba](https://scrimba.com/learn/frontend)<br>
 Asides Frontend development, I work as a UI/UX designer, where I help create and design web and mobile interface which balances aesthetics with a very great user experience.-->
 
- 👀 &nbsp;I love to build projects that solves real life problems while having fun
+ 👀 &nbsp;I love to build projects that solve real life problems while having fun
         <br/>
-        🚀 &nbsp;I love contributing to Opensource.
+        🚀 I love contributing to open source.
         <br/>
-        🙂 &nbsp; I design aesthetically pleasing interface while offering a satisfying experience to users.
+        🙂 I design aesthetically pleasing interface while offering a satisfying experience to users.
         <br/>
-        🧑🏽‍💻 &nbsp; Open to Internships and Part time opportunities
+        🧑🏽‍💻 Open to Internships and Part time opportunities
         <br />
-        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+        💞️ Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
 
