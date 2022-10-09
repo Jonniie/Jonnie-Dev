@@ -24,7 +24,7 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin Follow Badge"/></a>
 
 <!-- <a href="https://app.daily.dev/JonnieDev"><img src="https://api.daily.dev/devcards/6a81d47942094fe1a7c1bacb52257eb1.png?r=jxd" width="400" alt="John Areola's Dev Card"/></a>-->
-
+[![@jonni1e's Holopin board](https://holopin.io/api/user/board?user=jonni1e)](https://holopin.io/@jonni1e)
 
 ## My Github Stats && Technologies I use:
 <table>
