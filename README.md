@@ -23,13 +23,13 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
 <table>
   <tr>
     <td>
-      <a href="https://github.com/johnnyteck"><img alt="Jonnie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=johnnyteck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+      <a href="https://github.com/Jonnie-Dev"><img alt="Jonnie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jonnie-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
-      <a href="http://www.github.com/johnnyteck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=johnnyteck&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      <a href="http://www.github.com/Jonnie-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonnie-Dev&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/johnnyteck"><img alt="Jonnie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyteck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a href="https://github.com/Jonnie-Dev"><img alt="Jonnie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnie-Dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   <tr>
   <tr>
@@ -132,7 +132,7 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=johnnyteck&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jonnie-Dev&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## Connect with me:
 
