@@ -39,7 +39,7 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
 
 ### Connect with me:
 
-<p align="center">
+<p align="left" >
   <a href = "https://www.linkedin.com/in/john-areola"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/JonnieDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
