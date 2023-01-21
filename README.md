@@ -38,15 +38,3 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
   </table>
  
 [![Jonnie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonnie-Dev&theme=react-dark)](https://github.com/Jonnie-Dev/github-readme-activity-graph)
-
-
-### Connect with me:
-
-<p align="left" >
-  <a href = "https://www.linkedin.com/in/john-areola"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JonnieDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-</p>
-
-
-
-
