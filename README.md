@@ -1,5 +1,8 @@
 <h3>Hello 👋🏾</h3>
-
+<p>
+<a href="https://jonnie.vercel.app/">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+<p>
 <!-- I'm a Frontend Deveoper, working with HTML, CSS, SASS, Javascript, ReactJs<br><br>
 I'm currently taking the Frontend Career path course created by [Scrimba](https://scrimba.com/learn/frontend)<br>
 Asides Frontend development, I work as a UI/UX designer, where I help create and design web and mobile interface which balances aesthetics with a very great user experience.-->
