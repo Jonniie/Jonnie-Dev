@@ -1,6 +1,6 @@
 <h3>Hello 👋🏾</h3>
 <p>
-<a href="https://jonnie.vercel.app/">
+<a href="https://jon-nie.vercel.app/">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
 <p>
 <!-- I'm a Frontend Deveoper, working with HTML, CSS, SASS, Javascript, ReactJs<br><br>
