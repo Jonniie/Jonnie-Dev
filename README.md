@@ -36,5 +36,8 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
     </td>
   </tr>
   </table>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
  
 [![Jonnie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonnie-Dev&theme=react-dark)](https://github.com/Jonnie-Dev/github-readme-activity-graph)
