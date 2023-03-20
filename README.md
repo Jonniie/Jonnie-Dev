@@ -21,3 +21,29 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
 
 <a href="https://linkedin.com/in/john-areola">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin Follow Badge"/></a>
+
+
+## My Github Stats && Technologies I use:
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Jonnie-Dev"><img alt="Jonnie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jonnie-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/Jonnie-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonnie-Dev&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Jonnie-Dev"><img alt="Jonnie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnie-Dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+  </table>
+  
+
+## WakaTime 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+ 
+[![Jonnie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonnie-Dev&theme=react-dark)](https://github.com/Jonnie-Dev/github-readme-activity-graph)
+
