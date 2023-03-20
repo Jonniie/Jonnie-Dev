@@ -42,6 +42,15 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
 ## WakaTime 
 <!--START_SECTION:waka-->
 
+```text
+From: 12 March 2023 - To: 19 March 2023
+
+Total Time: 16 hrs 21 mins
+
+JavaScript   13 hrs 21 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀   81.65 %
+CSS          1 hr 26 mins    ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.85 %
+Other        34 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.51 %
+```
 
 <!--END_SECTION:waka-->
  
