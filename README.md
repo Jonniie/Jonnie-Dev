@@ -53,6 +53,4 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
- 
-[![Jonnie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jonnie-Dev&theme=react-dark)](https://github.com/Jonnie-Dev/github-readme-activity-graph)
-
+[![Jonnie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonnie-Dev&theme=react-dark)](https://github.com/Jonnie-Dev/github-readme-activity-graph)
