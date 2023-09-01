@@ -37,8 +37,7 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
     </td>
   </tr>
   </table>
-  
-[![Jonnie-Dev's GitHub | Stats](https://stats.quine.sh/Jonnie-Dev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jonnie-Dev)
+
 ## WakaTime 
 <!--START_SECTION:waka-->
 
