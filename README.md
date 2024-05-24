@@ -42,11 +42,11 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2024 - To: 21 May 2024
+From: 15 May 2024 - To: 22 May 2024
 
-Total Time: 16 mins
+Total Time: 0 secs
 
-JavaScript   16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
